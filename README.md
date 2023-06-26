@@ -19,3 +19,9 @@
 - [emm-fe-gc-t08-26-06-23](https://github.com/emagrina/emm-fe-gc-t08-26-06-23)
 - [emm-fe-gc-t09-26-06-23](https://github.com/emagrina/emm-fe-gc-t09-26-06-23)
 
+
+
+
+### Templates
+
+- [emm-fe-gc-ts-template](https://github.com/emagrina/emm-fe-gc-ts-template)
