@@ -15,6 +15,7 @@
 | T08 - DOM/BOM | 26/06/23 | [View](https://emagrina.github.io/emm-fe-gc-t08-26-06-23/) | [Repository](https://github.com/emagrina/emm-fe-gc-t08-26-06-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=js,bootstrap,html&theme=light"> |
 | T09 - TypeScript | 26/06/23 | 🙈 | [Repository](https://github.com/emagrina/emm-fe-gc-t09-26-06-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=ts&theme=light"> |
 | T10 - POO TypeScript | 28/06/23 | [View](https://emagrina.github.io/team4-fe-gc-t09-28-06-23/) | [Repository](https://github.com/emagrina/team4-fe-gc-t09-28-06-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=ts&theme=light"> |
+| T11 - Angular | 03/07/23 | 🙈 | [Repository](https://github.com/emagrina/emm-fe-gc-t11-03-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=angular&theme=light"> |
 
 
 
