@@ -16,7 +16,11 @@
 | T09 - TypeScript | 26/06/23 | 🙈 | [Repository](https://github.com/emagrina/emm-fe-gc-t09-26-06-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=ts&theme=light"> |
 | T10 - POO TypeScript | 28/06/23 | [View](https://emagrina.github.io/team4-fe-gc-t09-28-06-23/) | [Repository](https://github.com/emagrina/team4-fe-gc-t09-28-06-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=ts&theme=light"> |
 | T11 - Angular | 03/07/23 | 🙈 | [Repository](https://github.com/emagrina/emm-fe-gc-t11-03-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=angular&theme=light"> |
-
+| T12 - Angular Basics | 04/07/23 | [View](https://emagrina-calculator.netlify.app/) | [Repository](https://github.com/emagrina/emm-fe-gc-t12-04-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=angular&theme=light"> |
+| T13.1 - Componentes | 06/07/23 | [View](https://emagrina-emm-fe-gc-t35-1-06-07-23.netlify.app/) | [Repository](https://github.com/emagrina/emm-fe-gc-t35.1-06-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=angular&theme=light"> |
+| T13.2 - Componentes | 06/07/23 | [View](https://emagrina-emm-fe-gc-t35-2-06-07-23.netlify.app/) | [Repository](https://github.com/emagrina/emm-fe-gc-t35.2-06-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=angular&theme=light"> |
+| T13.3 - Componentes | 06/07/23 | [View](https://emagrina-emm-fe-gc-t35-3-06-07-23.netlify.app/) | [Repository](https://github.com/emagrina/emm-fe-gc-t35.3-06-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=angular&theme=light"> |
+| T13.4 - Componentes | 06/07/23 | [View](https://emagrina-emm-fe-gc-t35-4-06-07-23.netlify.app/) | [Repository](https://github.com/emagrina/emm-fe-gc-t35.4-06-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=angular&theme=light"> |
 
 
 ### Templates
