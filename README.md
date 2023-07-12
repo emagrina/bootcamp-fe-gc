@@ -22,6 +22,7 @@
 | T13.3 - Componentes | 06/07/23 | [View](https://emagrina-emm-fe-gc-t35-3-06-07-23.netlify.app/) | [Repository](https://github.com/emagrina/emm-fe-gc-t35.3-06-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=angular&theme=light"> |
 | T13.4 - Componentes | 06/07/23 | [View](https://emagrina-emm-fe-gc-t35-4-06-07-23.netlify.app/) | [Repository](https://github.com/emagrina/emm-fe-gc-t35.4-06-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=angular&theme=light"> |
 | T15 - Rick & Morty Frontend App | 07/07/23 | [View](https://main.d2a7mkj0oubaet.amplifyapp.com/) | [Repository](https://github.com/emagrina/emm-fe-gc-t15-07-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=angular&theme=light"> |
+| T17 - Rick & Morty Frontend App - Services | 10/07/23 | [View](https://main.d3oh690l4khlp7.amplifyapp.com/) | [Repository](https://github.com/emagrina/emm-fe-gc-t17-10-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=angular&theme=light"> |
 
 
 ### Templates
