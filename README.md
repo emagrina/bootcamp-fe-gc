@@ -27,6 +27,12 @@
 | T19 - Auth Rick & Morty Frontend App | 17/07/23 | [View](https://main.dcpuxppbr5h71.amplifyapp.com/) | [Repository](https://github.com/emagrina/emm-fe-gc-t19-17-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=angular&theme=light"> |
 | EX01 - Prueba Técnica Frontend | 18/07/23 | [View](https://main.d2rijkp6h51cs.amplifyapp.com/) | [Repository](https://github.com/emagrina/emm-fe-gc-ex1-18-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=angular&theme=light"> |
 
+## C3
+| Project | Date | Code | Technologies |
+|----------|----------|----------| --------|
+| TA12 - Diagramas ER | 19/07/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t03-html-css-07-06-23) |   |
+
+
 ### Templates
 
 - [emm-fe-gc-ts-template](https://github.com/emagrina/emm-fe-gc-ts-template)
