@@ -31,7 +31,9 @@
 | Project | Date | Code | Technologies |
 |----------|----------|----------| --------|
 | TA12 - Diagramas ER | 19/07/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t03-html-css-07-06-23) |   |
-
+| TA13 – Modelo Relacional | 24/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t13-24-07-23) |   |
+| T15 - DDL | 25/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t15-25-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
+| T16 - DML (I) | 26/07/23 | [Repository]() | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
 
 ### Templates
 
