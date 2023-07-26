@@ -28,12 +28,14 @@
 | EX01 - Prueba Técnica Frontend | 18/07/23 | [View](https://main.d2rijkp6h51cs.amplifyapp.com/) | [Repository](https://github.com/emagrina/emm-fe-gc-ex1-18-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=angular&theme=light"> |
 
 ## C3
+
 | Project | Date | Code | Technologies |
 |----------|----------|----------| --------|
-| TA12 - Diagramas ER | 19/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t12-19-07-23) |   |
-| TA13 – Modelo Relacional | 24/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t13-24-07-23) |   |
+| TA12 - Diagramas ER | 19/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t12-19-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=drawio&theme=light">  |
+| TA13 – Modelo Relacional | 24/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t13-24-07-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=drawio&theme=light"> |
 | T15 - DDL | 25/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t15-25-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
 | T16 - DML (I) | 26/07/23 | [Repository]() | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
+
 
 ### Templates
 
