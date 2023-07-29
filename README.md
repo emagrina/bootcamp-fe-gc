@@ -14,7 +14,7 @@
 | T07.2 – Funciones JS | 22/06/23 | [View](https://emagrina.github.io/emm-fe-gc-t07.2-22-06-23/) | [Repository](https://github.com/emagrina/emm-fe-gc-t07.2-22-06-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=js&theme=light"> |
 | T08 - DOM/BOM | 26/06/23 | [View](https://emagrina.github.io/emm-fe-gc-t08-26-06-23/) | [Repository](https://github.com/emagrina/emm-fe-gc-t08-26-06-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=js,bootstrap,html&theme=light"> |
 | T09 - TypeScript | 26/06/23 | 🙈 | [Repository](https://github.com/emagrina/emm-fe-gc-t09-26-06-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=ts&theme=light"> |
-| T10 - POO TypeScript | 28/06/23 | [View](https://emagrina.github.io/team4-fe-gc-t09-28-06-23/) | [Repository](https://github.com/emagrina/team4-fe-gc-t09-28-06-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=ts&theme=light"> |
+| T10 - POO TypeScript 👥 | 28/06/23 | [View](https://emagrina.github.io/team4-fe-gc-t09-28-06-23/) | [Repository](https://github.com/emagrina/team4-fe-gc-t09-28-06-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=ts&theme=light"> |
 | T11 - Angular | 03/07/23 | 🙈 | [Repository](https://github.com/emagrina/emm-fe-gc-t11-03-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=angular&theme=light"> |
 | T12 - Angular Basics | 04/07/23 | [View](https://emagrina-calculator.netlify.app/) | [Repository](https://github.com/emagrina/emm-fe-gc-t12-04-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=angular&theme=light"> |
 | T13.1 - Componentes | 06/07/23 | [View](https://emagrina-emm-fe-gc-t35-1-06-07-23.netlify.app/) | [Repository](https://github.com/emagrina/emm-fe-gc-t35.1-06-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=angular&theme=light"> |
@@ -31,11 +31,11 @@
 
 | Project | Date | Code | Technologies |
 |----------|----------|----------| --------|
-| TA12 - Diagramas ER | 19/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t12-19-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=drawio&theme=light">  |
-| TA13 – Modelo Relacional | 24/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t13-24-07-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=drawio&theme=light"> |
-| T15 - DDL | 25/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t15-25-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
+| TA12 - Diagramas ER 👥 | 19/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t12-19-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=drawio&theme=light">  |
+| TA13 – Modelo Relacional 👥 | 24/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t13-24-07-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=drawio&theme=light"> |
+| T15 - DDL 👥 | 25/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t15-25-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
 | T16 - DML (I) | 26/07/23 | [Repository]() | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
-
+| T17 - DML (II) | 27/07/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t17-27-07-23/tree/main) | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
 
 ### Templates
 
