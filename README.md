@@ -31,8 +31,8 @@
 
 | Project | Date | Code | Technologies |
 |----------|----------|----------| --------|
-| TA12 - Diagramas ER 👥 | 19/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t12-19-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=drawio&theme=light">  |
-| TA13 – Modelo Relacional 👥 | 24/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t13-24-07-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=drawio&theme=light"> |
+| TA12 - Diagramas ER 👥 | 19/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t12-19-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light">  |
+| TA13 – Modelo Relacional 👥 | 24/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t13-24-07-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
 | T15 - DDL 👥 | 25/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t15-25-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
 | T16 - DML (I) 👥| 26/07/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t16-26-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
 | T17 - DML (II) | 27/07/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t17-27-07-23/tree/main) | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
