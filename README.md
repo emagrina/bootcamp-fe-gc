@@ -37,6 +37,16 @@
 | T16 - DML (I) 👥| 26/07/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t16-26-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
 | T17 - DML (II) | 27/07/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t17-27-07-23/tree/main) | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
 
+
+## C4
+
+| Project | Date | Demo | Code | Technologies |
+|----------|------|----------|----------| --------|
+| TA18 - Introducción a .NET | 09/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t18-09-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=net&theme=light"> |
+| TA19 - C# Basics | 09/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t19-09-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=net&theme=light"> |
+| TA20 - Flujo de datos | 10/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t20-10-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=net&theme=light"> |
+
+
 ### Templates
 
 - [emm-fe-gc-ts-template](https://github.com/emagrina/emm-fe-gc-ts-template)
