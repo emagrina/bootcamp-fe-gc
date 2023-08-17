@@ -42,10 +42,12 @@
 
 | Project | Date | Demo | Code | Technologies |
 |----------|------|----------|----------| --------|
-| TA18 - Introducción a .NET | 09/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t18-09-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=net&theme=light"> |
-| TA19 - C# Basics | 09/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t19-09-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=net&theme=light"> |
-| TA20 - Flujo de datos | 10/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t20-10-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=net&theme=light"> |
-
+| TA18 - Introducción a .NET | 09/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t18-09-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
+| TA19 - C# Basics | 09/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t19-09-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
+| TA20 - Flujo de datos | 10/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t20-10-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
+| TA21 - Metodos y Arrays | 14/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t21-14-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
+| TA24 – Basic C# | 16/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t24-16-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
+| TA25 – POO | 17/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t25-17-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
 
 ### Templates
 
