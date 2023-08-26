@@ -36,7 +36,7 @@
 | T15 - DDL 👥 | 25/07/23 | [Repository](https://github.com/emagrina/team3-fe-gc-t15-25-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
 | T16 - DML (I) 👥| 26/07/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t16-26-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
 | T17 - DML (II) | 27/07/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t17-27-07-23/tree/main) | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
-
+| EX02 - Prueba Bases de datos | 25/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-ex2-25-08-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
 
 ## C4
 
