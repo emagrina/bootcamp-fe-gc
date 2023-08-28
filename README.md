@@ -40,14 +40,30 @@
 
 ## C4
 
-| Project | Date | Demo | Code | Technologies |
-|----------|------|----------|----------| --------|
-| TA18 - Introducción a .NET | 09/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t18-09-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
-| TA19 - C# Basics | 09/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t19-09-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
-| TA20 - Flujo de datos | 10/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t20-10-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
-| TA21 - Metodos y Arrays | 14/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t21-14-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
-| TA24 – Basic C# | 16/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t24-16-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
-| TA25 – POO | 17/08/23 |  | [Repository](https://github.com/emagrina/emm-fe-gc-t25-17-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
+| Project | Date | Code | Technologies |
+|----------|------|----------| --------|
+| TA18 - Introducción a .NET | 09/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t18-09-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
+| TA19 - C# Basics | 09/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t19-09-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
+| TA20 - Flujo de datos | 10/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t20-10-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
+| TA21 - Metodos y Arrays | 14/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t21-14-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
+| TA24 – Basic C# | 16/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t24-16-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
+| TA25 – POO | 17/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t25-17-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
+| TA27 – Herencia | 21/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t27-21-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
+| TA28 – POO .Net | 22/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t28-22-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
+
+## C5
+
+| Project | Date | Code | Technologies |
+|----------|-----|------| -------------|
+| TA28 – Nugget | 23/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t28-23-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
+| TA29 – Unittest | 24/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t29-24-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
+| TA30 - Patrón MVC | 28/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t30-28-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=net&theme=light"> |
+
+## C6
+
+| Project | Demo | Code | Technologies |
+|---------|------|------|--------------|
+| YADO | [View](https://main.d2cllapvi2wbve.amplifyapp.com/) | [Repository](https://github.com/YadoGo) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=angular,net,mysql&theme=light"> |
 
 ### Templates
 
