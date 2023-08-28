@@ -58,6 +58,7 @@
 | TA28 – Nugget | 23/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t28-23-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
 | TA29 – Unittest | 24/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t29-24-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
 | TA30 - Patrón MVC | 28/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t30-28-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=net&theme=light"> |
+| TA31 - API .NET Core | 28/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t31-28-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=net&theme=light"> |
 
 ## C6
 
