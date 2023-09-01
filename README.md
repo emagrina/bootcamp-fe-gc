@@ -59,6 +59,9 @@
 | TA29 – Unittest | 24/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t29-24-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=cs&theme=light"> |
 | TA30 - Patrón MVC | 28/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t30-28-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=net&theme=light"> |
 | TA31 - API .NET Core | 28/08/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t31-28-08-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=net&theme=light"> |
+| TA33 - API .NET Core (Models) | 01/09/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t33-01-09-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=net&theme=light"> |
+| TA34 - API .NET Core (Controllers) | 01/09/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t34-01-09-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=net&theme=light"> |
+| TA35 - API ER SQL | 01/09/23 | [Repository](https://github.com/emagrina/emm-fe-gc-t35-01-09-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=net&theme=light"> |
 
 ## C6
 
