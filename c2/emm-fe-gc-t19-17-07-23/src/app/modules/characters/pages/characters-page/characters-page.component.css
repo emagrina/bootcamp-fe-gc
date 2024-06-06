@@ -1,0 +1,15 @@
+#btn-botoom-right {
+  display: block;
+  position: fixed;
+  border-radius: 100%;
+  bottom: 40px;
+  right: 40px;
+}
+
+.img-info-character {
+  display: block;
+  position: fixed;
+  bottom: 90px;
+  right: 20px;
+  height: 120px;
+}

@@ -1,0 +1,15 @@
+#btn-botoom-right {
+  display: block;
+  position: fixed;
+  border-radius: 100%;
+  bottom: 40px;
+  right: 40px;
+}
+
+#btn-top-right {
+  display: block;
+  position: fixed;
+  border-radius: 100%;
+  top: 100px;
+  right: 40px;
+}

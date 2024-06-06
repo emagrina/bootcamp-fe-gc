@@ -1,0 +1,104 @@
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * The content below * * * * * * * * * * * -->
+<!-- * * * * * * * * * * is only a placeholder * * * * * * * * * * -->
+<!-- * * * * * * * * * * and can be replaced. * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!-- * * * * * * * * * Delete the template below * * * * * * * * * * -->
+<!-- * * * * * * * to get started with your project! * * * * * * * * -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+
+
+<!-- Design: https://dribbble.com/shots/3998247-Calculator -->
+
+<div
+  class="container d-flex align-items-center justify-content-center flex-column"
+>
+  <div class="screen rounded-top-3 d-flex align-items-center justify-content-center">
+    <div class="row">
+      <div class="col">
+        <input type="text" class="form-control custom-input text-light fw-bold fs-4 disabled"[value]="getResultDisplay()" disabled>
+      </div>
+    </div>
+  </div>
+
+  <div class="keyboard rounded-bottom-3">
+    <div class="d-flex flex-row justify-content-between">
+      <div class="container-left">
+        <div class="row">
+          <div class="col-3 mb-3 px-4 bg-grey">
+            <button class="btn btn-block text-light fw-bold fs-4" (click)="handleOperationClick('C')">C</button>
+          </div>
+          <div class="col-3 mb-3 px-4 bg-grey">
+            <button class="btn btn-block text-light fw-bold fs-4" (click)="handleOperationClick('±')">±</button>
+          </div>
+          <div class="col-3 mb-3 px-4 bg-grey">
+            <button class="btn btn-block text-light fw-bold fs-4">%</button>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-3 mb-3 px-4">
+            <button class="btn btn-block text-light fw-bold fs-4" (click)="handleNumberClick('7')">7</button>
+          </div>
+          <div class="col-3 mb-3 px-4">
+            <button class="btn btn-block text-light fw-bold fs-4" (click)="handleNumberClick('8')">8</button>
+          </div>
+          <div class="col-3 mb-3 px-4">
+            <button class="btn btn-block text-light fw-bold fs-4" (click)="handleNumberClick('9')">9</button>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-3 mb-3 px-4">
+            <button class="btn btn-block text-light fw-bold fs-4" (click)="handleNumberClick('4')">4</button>
+          </div>
+          <div class="col-3 mb-3 px-4">
+            <button class="btn btn-block text-light fw-bold fs-4" (click)="handleNumberClick('5')">5</button>
+          </div>
+          <div class="col-3 mb-3 px-4">
+            <button class="btn btn-block text-light fw-bold fs-4" (click)="handleNumberClick('6')">6</button>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-3 mb-3 px-4">
+            <button class="btn btn-block text-light fw-bold fs-4" (click)="handleNumberClick('1')">1</button>
+          </div>
+          <div class="col-3 mb-3 px-4">
+            <button class="btn btn-block text-light fw-bold fs-4" (click)="handleNumberClick('2')">2</button>
+          </div>
+          <div class="col-3 mb-3 px-4">
+            <button class="btn btn-block text-light fw-bold fs-4" (click)="handleNumberClick('3')">3</button>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-3 mb-3 px-4">
+            <button class="btn btn-block text-light fw-bold fs-4" (click)="handleNumberClick('0')">0</button>
+          </div>
+          <div class="col-3 mb-3 px-4">
+            <button class="btn btn-block text-light fw-bold fs-4" (click)="handleNumberClick('00')">00</button>
+          </div>
+          <div class="col-3 mb-3 px-4">
+            <button class="btn btn-block text-light fw-bold fs-4" (click)="handleNumberClick('.')">.</button>
+          </div>
+        </div>
+      </div>
+      <div class="container-right d-flex flex-column">
+        <button class="btn btn-block text-dark fw-bold fs-4 mb-3" (click)="handleOperationClick('÷')">÷</button>
+        <button class="btn btn-block text-dark fw-bold fs-4 mb-3" (click)="handleOperationClick('x')">x</button>
+        <button class="btn btn-block text-dark fw-bold fs-4 mb-3" (click)="handleOperationClick('-')">-</button>
+        <button class="btn btn-block text-dark fw-bold fs-4 mb-3" (click)="handleOperationClick('+')">+</button>
+        <div class="btn-resolv mb-3">
+          <button class="btn btn-block text-light fw-bold fs-4" (click)="handleOperationClick('=')">=</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * The content above * * * * * * * * * * * -->
+<!-- * * * * * * * * * * is only a placeholder * * * * * * * * * * -->
+<!-- * * * * * * * * * * and can be replaced. * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!-- * * * * * * * * * * End of Placeholder * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+
+<router-outlet></router-outlet>

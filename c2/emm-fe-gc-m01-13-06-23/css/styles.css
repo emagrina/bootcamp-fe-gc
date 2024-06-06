@@ -1,0 +1,333 @@
+@font-face {
+  font-family: "Gill Sans Bold Italic";
+  src: url("../fonts/Gill-Sans-Bold-Italic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Pretendo";
+  src: url("../fonts/Pretendo.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Nintendo";
+  src: url("https://cdn.rawgit.com/brenopolanski/nintendo-logo-css3/master/nintendo.eot");
+  src: url("https://cdn.rawgit.com/brenopolanski/nintendo-logo-css3/master/nintendo.eot?#iefix"),
+    url("https://cdn.rawgit.com/brenopolanski/nintendo-logo-css3/master/nintendo.ttf")
+      format("truetype");
+}
+
+body {
+  background-color: #fbfcfe;
+  overflow: hidden;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.protective-screen {
+  background-image: url("../images/patron_plastico.avif");
+  height: 600px;
+  width: 350px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  box-shadow: 5px 5px 40px #fedb8f;
+}
+
+.screen-container {
+  background: linear-gradient(
+    344deg,
+    rgba(34, 36, 40, 1) 0%,
+    rgba(69, 71, 75, 1) 76%,
+    rgba(34, 36, 40, 1) 100%
+  );
+  border-radius: 12px 12px 12px 12px;
+  height: 250px;
+  width: 300px;
+  margin: 25px 25px 0 25px;
+  padding-top: 15px;
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  grid-template-rows: 2fr 0.4fr;
+  gap: 5px 5px;
+  grid-template-areas:
+    "power screen ."
+    ". logo .";
+}
+
+.screen-container > * {
+  border-radius: 4px;
+}
+
+.power {
+  display: flex;
+  flex-direction: column;
+  color: #fbfcfe;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  margin-top: 50px;
+  margin-left: 5px;
+}
+
+.power-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 15px;
+}
+
+.power-icons > p {
+  font-weight: 700;
+  margin-left: 3px;
+  letter-spacing: 2px;
+}
+
+.icon-led {
+  width: 10px;
+  height: 10px;
+  background-color: #b80a41;
+  border-radius: 50%;
+  box-shadow: 0 0 5px red;
+}
+
+.power > p {
+  color: #fbfcfe9f;
+  margin-top: 1px;
+  font-size: 9px;
+  text-align: center;
+}
+
+.screen {
+  background: linear-gradient(
+    344deg,
+    rgba(189, 174, 88, 0.5830707282913166) 0%,
+    rgba(135, 125, 68, 0.5634628851540616) 76%,
+    rgba(189, 174, 88, 0.6110819327731092) 100%
+  );
+  grid-area: screen;
+  transition: filter 0.5s ease;
+  filter: brightness(0.8);
+  border: 4px solid #000;
+}
+
+.screen:hover {
+  background-image: url("../images/wfmjrjdbbongss6nihlf.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgba(189, 174, 88, 1);
+  opacity: 0.8;
+  filter: brightness(1);
+}
+
+.logo {
+  grid-area: logo;
+  text-align: center;
+  margin-top: 6px;
+  font-family: "Gill Sans Bold Italic", sans-serif;
+  color: #fbfcfe;
+}
+
+.logo > span {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-weight: 900;
+  letter-spacing: -2px;
+  font-size: large;
+}
+
+.red {
+  color: #b80a41;
+}
+
+.purple {
+  color: #4e4ba8;
+}
+
+.green {
+  color: #6eb121;
+  display: inline-block;
+  transform: rotate(-10deg);
+}
+
+.yellow {
+  color: #daac04;
+}
+
+.emerald {
+  color: #1a938a;
+}
+
+.logo-nintendo {
+  display: flex;
+  justify-content: center;
+  opacity: 0.3;
+}
+
+.logo-nintendo-text {
+  border: #c2b803 solid 3px;
+  padding: 5px 20px;
+  border-radius: 20px;
+  font-family: Nintendo, Verdana, Arial, Helvetica, sans-serif;
+  color: #c2b803;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.18) inset;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.18) inset;
+  font-size: small;
+  background-color: #fdf61e;
+}
+
+.logo-nintendo-text > sup {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.controls {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px 30px;
+}
+
+.direcctional-pad {
+  display: grid;
+  grid-template-columns: 23px 23px 23px;
+  grid-template-rows: 23px 23px 23px;
+  grid-template-areas:
+    ". arrow-up ."
+    "arrow-left direcctional-pad-center arrow-right"
+    ". arrow-down .";
+  justify-items: center;
+}
+
+.direcctional-pad > div:not(.direcctional-pad-center) {
+  padding: 3px;
+  background-color: #000;
+}
+
+.arrow {
+  width: 0;
+  height: 0;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-bottom: 15px solid #4d4d4d;
+  border-radius: 2px;
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #4d4d4d;
+}
+
+.arrow-up {
+  grid-area: arrow-up;
+}
+
+.arrow-down {
+  grid-area: arrow-down;
+}
+
+.arrow-down > div {
+  transform: rotate(180deg);
+}
+
+.arrow-right {
+  grid-area: arrow-right;
+}
+
+.arrow-right > div {
+  transform: rotate(90deg);
+}
+
+.arrow-left {
+  grid-area: arrow-left;
+}
+
+.arrow-left > div {
+  transform: rotate(270deg);
+}
+
+.direcctional-pad-center {
+  grid-area: direcctional-pad-center;
+  padding: 3px;
+  background-color: #000;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  margin: -10px;
+}
+
+.button-rotate {
+  transform: rotate(60deg);
+}
+
+.button {
+  color: #4d4d4d;
+  background-color: #000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  border-radius: 50%;
+  padding: 10px 13px;
+  transform: rotate(-60deg);
+  margin: 30px 60px 0 0;
+}
+
+.buttons-small {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.button-small {
+  background-color: #000;
+  height: 15px;
+  width: 30px;
+  margin: 0 10px;
+  border-radius: 10px;
+}
+
+.volume-container {
+  display: flex;
+  justify-content: end;
+  margin-right: 25px;
+}
+
+.volume {
+  display: grid;
+  grid-template-columns: 5px 5px 5px 5px 5px 5px 5px 5px;
+  grid-template-rows: 5px 5px 5px 5px 5px 5px 5px 5px;
+  gap: 2.5px 2.5px;
+  grid-template-areas:
+    "none . . . . . . none"
+    ". . . . . . . ."
+    ". . . . . . . ."
+    ". . . . . . . ."
+    ". . . . . . . ."
+    ". . . . . . . ."
+    ". . . . . . . ."
+    "none . . . . . . none";
+    transform: translate(0px, 0px) scale(1, 1.4) skew(-19deg, -4deg);
+}
+
+.circle-volume-black {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: #000000;
+  opacity: 0.4;
+}
+
+.circle-volume-grey {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: #808080;
+  opacity: 0.4;
+}

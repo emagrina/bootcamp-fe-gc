@@ -1,0 +1,17 @@
+ol > li:nth-child(1) > ol {
+  list-style-type: lower-alpha;
+}
+
+ol > li:nth-child(2) > ol {
+  list-style-type: upper-roman;
+}
+
+ol > li:nth-child(2) > ol > li:nth-child(1) {
+  padding-left: 20px;
+}
+
+ol > li:nth-child(2) > ol > li:nth-child(2) {
+  padding-left: 15px;
+  margin-left: 5px;
+}
+

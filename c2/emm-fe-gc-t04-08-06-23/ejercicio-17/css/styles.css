@@ -1,0 +1,125 @@
+body {
+  background-image: url("../images/ac.jpg");
+  background-repeat: repeat;
+  padding: 0;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 2em;
+  justify-content: center;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  line-height: 100px;
+  border: 3px solid black;
+}
+.padding-inner {
+  box-sizing: border-box;
+  padding: 20px;
+  background-origin: content-box;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+/* A */
+.box:nth-child(1) {
+  background-image: url("../images/back_mantel.jpg");
+}
+
+/* B */
+.box:nth-child(2) {
+  background-image: url("../images/back_mantel.jpg");
+  background-clip: content-box;
+}
+
+/* C */
+.box:nth-child(3) {
+  background-image: url("../images/back_mantel.jpg");
+  background-size: 100%;
+}
+
+/* D */
+.box:nth-child(4) {
+  background-image: url("../images/back_mantel.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+/* E */
+.box:nth-child(5) {
+  background-image: url("../images/dh.jpg");
+  background-size: 100%;
+}
+
+/* F */
+.box:nth-child(6) {
+  background-image: url("../images/dh.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+/* G */
+.box:nth-child(7) {
+  background-image: url("../images/dh_2.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* H */
+.box:nth-child(8) {
+  background-image: url("../images/dh_3.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* I */
+.box:nth-child(9) {
+  background: linear-gradient(
+    to right,
+    rgba(186, 255, 108, 1) 0%,
+    rgba(86, 117, 50, 1) 100%
+  );
+}
+
+/* J */
+.box:nth-child(10) {
+  background: linear-gradient(
+    to bottom,
+    rgba(240, 183, 161, 1) 0%,
+    rgba(140, 51, 16, 1) 80%,
+    rgba(117, 34, 1, 1) 51%,
+    rgba(191, 118, 78, 1) 100%
+  );
+}
+
+/* K */
+.box:nth-child(11) {
+  background: linear-gradient(
+    to top,
+    rgba(50, 116, 45, 1) 0%,
+    rgba(239, 239, 210, 1) 100%
+  );
+}
+
+/* L */
+.box:nth-child(12) {
+  background: linear-gradient(
+    to top,
+    rgba(50, 116, 45, 1) 0%,
+    rgba(50, 116, 45, 0) 79%
+  );
+}
+
+@media (min-width: 800px) {
+  .grid-container {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

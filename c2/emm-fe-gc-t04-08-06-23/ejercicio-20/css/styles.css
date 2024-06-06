@@ -1,0 +1,10 @@
+table,
+td,
+th {
+  border: #b2b2b2 1px solid;
+}
+
+.bolder {
+    font-weight: bolder;
+    text-align: center;
+}

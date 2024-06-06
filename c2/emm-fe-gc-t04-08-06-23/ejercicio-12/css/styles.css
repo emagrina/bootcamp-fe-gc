@@ -1,0 +1,48 @@
+body {
+  background-color: azure;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  border: 2px solid rgb(0, 170, 255);
+}
+
+div > div {
+  border: 3px outset rgb(255, 255, 255);
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: x-large;
+}
+
+table th,
+table td {
+  border: 2px solid rgb(0, 170, 255);
+  box-shadow: -1px -1px 1px 0.5px rgb(255, 255, 255) inset;
+}
+
+table th {
+  background-color: #043333;
+  color: #ccfecc;
+  text-align: center;
+}
+
+tr {
+  background-color: #ccfecc;
+}
+
+tr:last-child {
+  background-color: #99cc99;
+}
+
+.price {
+  text-align: center;
+}
+
+td:first-child {
+  padding-right: 5em;
+}

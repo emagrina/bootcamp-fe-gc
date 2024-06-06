@@ -1,0 +1,29 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #fff9ef;
+}
+
+h1 {
+    background-color: #fedb8f;
+}
+
+h2 {
+    color: #74aaca;
+    font-style: italic;
+}
+
+p > span {
+    color:  #74aaca;
+    font-style: italic;
+}
+
+h3 {
+    color: #698290;
+}
+
+ul {
+    list-style: none;
+}

@@ -1,0 +1,47 @@
+body {
+  background-color: azure;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  border: 2px solid rgb(0, 170, 255);
+}
+
+div > div {
+  border: 3px outset rgb(255, 255, 255);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: x-large;
+}
+
+.titles td {
+  background-color: #043333;
+  color: #ccfecc;
+  text-align: center;
+}
+
+table th,
+table td {
+  border: 3px solid rgb(0, 170, 255);
+  box-shadow: -1px -1px 1px 0.5px rgb(255, 255, 255) inset;
+}
+
+table th {
+  background-color: #043333;
+  color: #ccfecc;
+  text-align: center;
+  padding: 0 0.5em;
+}
+
+tr:nth-child(odd) {
+  background-color: #99cc99;
+}
+
+tr:nth-child(even) {
+  background-color: #ccfecc;
+}

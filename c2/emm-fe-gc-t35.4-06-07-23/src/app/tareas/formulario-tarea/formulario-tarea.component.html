@@ -1,0 +1,33 @@
+<form (ngSubmit)="guardarTarea()" #forma="ngForm" class="form px-5">
+  <div class="form-group row mt-2">
+    <label for="nombre" class="col-md-1 col-form-label me-5">Titulo:</label>
+    <div class="col-md-10">
+      <input
+        type="text"
+        id="nombre"
+        [(ngModel)]="tarea.titulo"
+        name="nombre"
+        required
+        class="form-control"
+      />
+    </div>
+  </div>
+  <div class="form-group row mt-2">
+    <label for="direccion" class="col-md-1 col-form-label me-5">Descripcion:</label>
+    <div class="col-md-10">
+      <textarea
+        type="text"
+        id="direccion"
+        [(ngModel)]="tarea.descripcion"
+        name="direccion"
+        required
+        class="form-control"
+      ></textarea>
+    </div>
+  </div>
+  <div class="row mt-2">
+    <div class="col-md-6">
+      <button type="submit" class="btn btn-primary">Crear tarea</button>
+    </div>
+  </div>
+</form>

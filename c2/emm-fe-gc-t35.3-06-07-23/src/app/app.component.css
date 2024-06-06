@@ -1,0 +1,15 @@
+table, th, td {
+  border: black 1px solid;
+}
+
+.parameters {
+  margin-top: 1em;
+}
+
+.parameters > div {
+  padding-bottom: 1em;
+}
+
+.parameters > button {
+  margin-right: 1em;
+}

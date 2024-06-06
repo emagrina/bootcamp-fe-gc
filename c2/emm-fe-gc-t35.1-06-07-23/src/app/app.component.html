@@ -1,0 +1,70 @@
+<h2 class="px-5 mt-4">Alta Cliente</h2>
+
+<form (ngSubmit)="guardarCliente()" #forma="ngForm" class="form px-5">
+  <div class="form-group row mt-2">
+    <label for="nombre" class="col-md-1 col-form-label">Nombre:</label>
+    <div class="col-md-2">
+      <input
+        type="text"
+        id="nombre"
+        [(ngModel)]="cliente.nombre"
+        name="nombre"
+        required
+        class="form-control"
+      />
+    </div>
+  </div>
+  <div class="form-group row mt-2">
+    <label for="cif" class="col-md-1 col-form-label">CIF:</label>
+    <div class="col-md-2">
+      <input
+        type="text"
+        id="cif"
+        [(ngModel)]="cliente.cif"
+        name="cif"
+        required
+        class="form-control"
+      />
+    </div>
+  </div>
+  <div class="form-group row mt-2">
+    <label for="direccion" class="col-md-1 col-form-label">Dirección:</label>
+    <div class="col-md-2">
+      <input
+        type="text"
+        id="direccion"
+        [(ngModel)]="cliente.direccion"
+        name="direccion"
+        required
+        class="form-control"
+      />
+    </div>
+  </div>
+  <div class="form-group row mt-2">
+    <label for="grupo" class="col-md-1 col-form-label">Grupo:</label>
+    <div class="col-md-2">
+      <select id="grupo" [(ngModel)]="cliente.grupo" name="grupo" required class="form-control">
+        <option value="">Seleccionar grupo</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+      </select>
+    </div>
+  </div>
+  <div class="row mt-2">
+    <div class="col-md-6">
+      <button type="submit" class="btn btn-primary">Guardar</button>
+    </div>
+  </div>
+</form>
+
+<app-listado-cliente [clientes]="listaClientes" (clienteEliminado)="eliminarCliente($event)"></app-listado-cliente>
+
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * The content above * * * * * * * * * * * -->
+<!-- * * * * * * * * * * is only a placeholder * * * * * * * * * * -->
+<!-- * * * * * * * * * * and can be replaced. * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!-- * * * * * * * * * * End of Placeholder * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+
+<router-outlet></router-outlet>

@@ -1,0 +1,70 @@
+#header-nav {
+  background-color: #f0f0f0;
+  height: 40px;
+}
+
+#header-nav-left > div > a {
+  text-decoration: none;
+  color: black;
+  margin-left: 5px;
+}
+
+#header-nav-right > a {
+  text-decoration: none;
+  color: black;
+}
+
+.nav {
+  background-color: #2980b9;
+  height: 85px;
+  padding-left: 10px;
+}
+
+.nav-content {
+  background-color: #2980b9;
+}
+
+.border-rl {
+  border-left: 1px solid #1a4e7047;
+}
+
+.nav-height {
+  padding: 31px 0 30px 0;
+}
+
+.active {
+  background-color: #f0f0f0;
+  color: black !important;
+}
+
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu > .dropdown-menu {
+  left: 100%;
+  top: -6px;
+}
+
+.dropdown-submenu:hover > .dropdown-menu,
+.dropdown-submenu > a:focus + .dropdown-menu {
+  display: block;
+}
+
+.nav-right > a{
+    color: white;
+    text-decoration: none;
+}
+
+#user {
+    padding: 28px 20px 28px 20px;
+    background-color: #1a4e7047;
+    margin-right: -12px;
+    margin-left: 10px;
+    border-radius: 0 0 4px 0;
+}
+
+#user > a {
+    color: white;
+    text-decoration: none;
+}

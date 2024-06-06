@@ -1,0 +1,99 @@
+@font-face {
+  font-family: "LucidaSansUnicode";
+  src: url("../typography/lsansuni.ttf") format("truetype");
+}
+
+* {
+  font-family: LucidaSansUnicode, Helvetica, sans-serif;
+}
+
+body {
+  background-color: lightgray;
+}
+
+main {
+  background-color: white;
+  border-radius: 1em;
+  margin: 2em 29em;
+}
+
+img {
+  display: block;
+  padding: 2em 0 0 0;
+  margin: 0 auto;
+  width: 90%;
+  height: 15em;
+}
+
+h1 {
+  color: #62983c;
+  letter-spacing: 0.2em;
+  text-align: center;
+}
+
+h1 > span {
+  color: sienna;
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+}
+
+li {
+  background: linear-gradient(to bottom, white, #cbe783);
+  border: 1px solid #ccc;
+  margin: 1em 0;
+  text-align: center;
+  padding: 0.2em 2em;
+  list-style: none;
+}
+
+li > a {
+  text-decoration: none;
+  color: #62983c;
+}
+
+li:hover {
+  background: linear-gradient(to bottom, white, #cbe78376);
+}
+
+.active {
+  background: linear-gradient(to bottom, white, #e5cdb2);
+}
+
+.active:hover {
+  background: linear-gradient(to bottom, white, #e5cdb2);
+}
+
+article {
+  border: 1px solid rgb(144, 144, 144);
+  padding: 1em;
+  margin: 1em;
+  background: linear-gradient(#f2f2f2, #ffffff, #f2f2f2);
+}
+
+article > h2 {
+  color: #75b955;
+}
+
+h3 {
+  color: sienna;
+}
+
+hr {
+  height: 0.5px;
+  background-color: #75b955;
+  margin: -20px 0 0 0;
+  border-color: transparent;
+}
+
+footer {
+  color: lightgray;
+  margin: 0 3em 0 15em;
+  padding: 0 0 1em 0;
+}
+
+footer > span {
+  text-decoration-line: underline;
+}

@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "emm-rick-and-morty": {
+      "hosting": {
+        "test": [
+          "emm-rick-and-morty"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "emm-rick-and-morty"
+  }
+}

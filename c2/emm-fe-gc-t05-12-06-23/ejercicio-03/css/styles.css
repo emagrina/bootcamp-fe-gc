@@ -1,0 +1,128 @@
+@font-face {
+  font-family: "NetflixSans-Bold";
+  src: url("../assets/fonts/NetflixSans-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "NetflixSans-Light";
+  src: url("../assets/fonts/NetflixSans-Light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "NetflixSans-Medium";
+  src: url("../assets/fonts/NetflixSans-Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "NetflixSans-Regular";
+  src: url("../assets/fonts/NetflixSans-Regular.otf.otf") format("opentype");
+}
+
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  box-shadow: none;
+  font-family: NetflixSans-Regular, Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  padding: 1.5em 0;
+  justify-content: space-between;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+
+  margin-left: 2em;
+}
+
+nav > img {
+    width: 7em;
+    height: 2em;
+    margin-right: 3em;
+  }
+  
+nav > a {
+  text-decoration: none;
+  color: white;
+  margin-top: 0.5em;
+  margin-left: 2em;
+}
+
+.header-right {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-right: 2em;
+}
+
+.header-right > span{
+    color: white;
+    font-weight: 600;
+    margin: 0.25em 0.50em;
+}
+
+.header-right > img{
+    margin-left: 1em;
+    width: 2.5em;
+    height: 2.5em;
+    border-radius: 4px;
+}
+
+.content {
+  height: 100vh;
+  margin: 0 2em;
+}
+
+.container {
+  height: 100%;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 0.7fr 1.7fr 0.7fr 1.7fr 0.7fr 1.7fr;
+  gap: 0.2em 0.5em;
+  grid-auto-flow: row;
+  grid-template-areas:
+    ". . . . ."
+    ". . . . ."
+    ". . . . ."
+    ". . . . ."
+    ". . . . ."
+    ". . . . .";
+}
+
+.container * {
+  position: relative;
+}
+
+.container > div:nth-child(1),
+.container > div:nth-child(7),
+.container > div:nth-child(13) {
+  color: white;
+  font-family: NetflixSans-Bold, Arial, Helvetica, sans-serif;
+  font-size: x-large;
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 1em;
+}
+.container > div:nth-of-type(1) {
+  grid-area: 1 / 1 / span 1 / span 5;
+}
+
+.container > div:nth-of-type(7) {
+  grid-area: 3 / 1 / span 1 / span 5;
+}
+
+.container > div:nth-of-type(13) {
+  grid-area: 5 / 1 / span 1 / span 5;
+}
+
+.container > div > img {
+    border-radius: 6px;
+}

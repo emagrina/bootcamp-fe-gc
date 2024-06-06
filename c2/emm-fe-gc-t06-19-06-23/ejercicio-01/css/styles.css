@@ -1,0 +1,12 @@
+body {
+  background-color: #00171f;
+  background-image: url("../images/gradient-1.png");
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+.btn-teal-custom {
+    background-color: #29e9af;
+}

@@ -1,0 +1,26 @@
+<h2 class="px-5 mt-4">Listado clientes</h2>
+
+<div class="px-5">
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Nombre</th>
+        <th>CIF</th>
+        <th>Dirección</th>
+        <th>Grupo</th>
+        <th>Acción</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let cliente of clientes">
+        <td>{{ cliente.nombre }}</td>
+        <td>{{ cliente.cif }}</td>
+        <td>{{ cliente.direccion }}</td>
+        <td>{{ cliente.grupo }}</td>
+        <td>
+          <button class="btn btn-danger btn-sm" (click)="borrarCliente(cliente)">Eliminar</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

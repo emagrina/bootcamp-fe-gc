@@ -1,0 +1,20 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-7 mx-auto">
+      <h1
+        class="h1 text-center pt-5 pb-2 mb-4 text-dark border-bottom border-seccondary"
+      >
+        TODO
+      </h1>
+      <!-- Llamamos el componente FormularioTarea y llamamos el evento agregarTarea del hijo al padre-->
+      <app-formulario-tarea (agregarTarea)="agregarTarea($event)" />
+
+      <!-- Llamamos el componente ListaTareas y llamamos el evento tareas que mandara la listaTareas de la padre al hijo
+      y luego el evento tareaEliminada que obtendra que tarea quiere eliminar del hijo al padre-->
+      <app-lista-tareas
+        [tareas]="listaTareas"
+        (tareaEliminada)="eliminarTarea($event)"
+      />
+    </div>
+  </div>
+</div>

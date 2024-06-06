@@ -1,0 +1,82 @@
+<form [formGroup]="characterForm" (ngSubmit)="onSubmit()" class="form px-5">
+  <div class="form-group row mt-2">
+    <label for="name" class="col-md-1 col-form-label me-5">Name:</label>
+    <div class="col-md-10">
+      <input
+        type="text"
+        id="name"
+        formControlName="name"
+        class="form-control"
+      />
+    </div>
+  </div>
+  <div class="form-group row mt-2">
+    <label for="status" class="col-md-1 col-form-label me-5">Status:</label>
+    <div class="col-md-10">
+      <select id="status" formControlName="status" class="form-select">
+        <option *ngFor="let status of characterStatuses" [value]="status">
+          {{ status }}
+        </option>
+      </select>
+    </div>
+  </div>
+  <div class="form-group row mt-2">
+    <label for="gender" class="col-md-1 col-form-label me-5">Gender:</label>
+    <div class="col-md-10">
+      <select id="gender" formControlName="gender" class="form-select">
+        <option *ngFor="let gender of characterGenders" [value]="gender">
+          {{ gender }}
+        </option>
+      </select>
+    </div>
+  </div>
+  <div class="form-group row mt-2">
+    <label for="species" class="col-md-1 col-form-label me-5">Specie:</label>
+    <div class="col-md-10">
+      <input
+        type="text"
+        id="species"
+        formControlName="species"
+        class="form-control"
+      />
+    </div>
+  </div>
+  <div class="form-group row mt-2">
+    <label for="origin" class="col-md-1 col-form-label me-5">Origin:</label>
+    <div class="col-md-10">
+      <input
+        type="text"
+        id="origin"
+        formControlName="origin"
+        class="form-control"
+      />
+    </div>
+  </div>
+  <div class="form-group row mt-2">
+    <label for="location" class="col-md-1 col-form-label me-5">Location:</label>
+    <div class="col-md-10">
+      <input
+        type="text"
+        id="location"
+        formControlName="location"
+        class="form-control"
+      />
+    </div>
+  </div>
+  <div class="form-group row mt-2">
+    <label for="image" class="col-md-1 col-form-label me-5">Image:</label>
+    <div class="col-md-10">
+      <input
+        type="text"
+        id="image"
+        formControlName="image"
+        class="form-control"
+      />
+    </div>
+  </div>
+  <div class="row mt-2">
+    <div class="col-md-6">
+      <button type="submit" class="btn btn-success">{{ isEditMode ? 'Update' : 'Create' }}</button>
+    </div>
+  </div>
+</form>

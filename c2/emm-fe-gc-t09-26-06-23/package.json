@@ -1,0 +1,23 @@
+{
+  "name": "emm-fe-gc-t09-26-06-23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "dev": "npx tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emagrina/emm-fe-gc-t09-26-06-23.git"
+  },
+  "author": "emagrina",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/emagrina/emm-fe-gc-t09-26-06-23/issues"
+  },
+  "homepage": "https://github.com/emagrina/emm-fe-gc-t09-26-06-23#readme",
+  "dependencies": {
+    "typescript": "^5.1.3"
+  }
+}

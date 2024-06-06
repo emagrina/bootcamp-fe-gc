@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(255, 255, 255);
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2016/07/06113409/pinguino-1024x575.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 1000px;
+  height: 500px;
+  border-radius: 1em;
+}
+
+table {
+  border-collapse: separate;
+  width: 80%;
+  border: 5px outset gray;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  background-color: rgb(248, 242, 157);
+}
+
+table th,
+table td {
+  border: 2px solid rgb(0, 0, 0);
+  padding: 8px;
+  font-weight: bold;
+  box-shadow: 0.5px 0.5px 1px 1px rgb(0, 0, 0) inset;
+}
+
+table th {
+  background-color: #ffffff;
+  text-align: center;
+}
+
+table td {
+  background-color: rgb(248, 242, 157);
+  text-align: center;
+}
+
+.txt-500 {
+  font-weight: 500;
+}

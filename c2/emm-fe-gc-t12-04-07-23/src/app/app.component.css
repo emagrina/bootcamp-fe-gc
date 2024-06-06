@@ -1,0 +1,46 @@
+.container {
+  height: 100vh;
+}
+
+.screen {
+  width: 300px;
+  height: 125px;
+  background-color: black;
+  box-shadow: 0 25px 60px -10px rgba(0, 0, 0, 0.5);
+}
+
+.keyboard {
+  width: 300px;
+  height: 324px;
+  box-shadow: 0 25px 60px -10px rgba(0, 0, 0, 0.5);
+  background: linear-gradient(135deg, #3a3a3a, #000000);
+}
+
+.container-right {
+  background-color: white;
+  width: 55px;
+  height: 324px;
+  border-bottom-right-radius: 0.5rem;
+}
+
+.custom-input {
+  text-align: right;
+  border: none;
+  background-color: transparent;
+  outline: none;
+  letter-spacing: 1px;
+}
+
+.custom-input::placeholder {
+  color: rgb(189, 189, 189);
+}
+
+.btn-resolv {
+  background: linear-gradient(60deg, #ff0300, #ffa100);
+  border-bottom-right-radius: 0.5rem;
+  margin-top: 10px;
+}
+
+.btn-resolv > button {
+  padding-left: 20px;
+}

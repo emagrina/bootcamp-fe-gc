@@ -1,0 +1,8 @@
+.content {
+  background: url(../images/f01.png) left bottom repeat-x,
+    url(../images/f02.png) left bottom no-repeat,
+    url(../images/f03.png) left top repeat-x;
+  background-color: #a4d3ff;
+  width: auto;
+  height: 50vh;
+}

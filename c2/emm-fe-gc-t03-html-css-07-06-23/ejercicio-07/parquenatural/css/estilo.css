@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'LucidaSansUnicode';
+    src: url('../typography/lsansuni.ttf') format('truetype');
+}
+
+* {
+    font-family: LucidaSansUnicode, Helvetica, sans-serif;
+  }
+
+h1 {
+  color: #62983c;
+  letter-spacing: 0.2em;
+  text-align: center;
+}
+
+h1 > span {
+  color: sienna;
+}
+
+main {
+  border: 1px solid rgb(144, 144, 144);
+  padding: 1em;
+  margin: 1em;
+}
+
+main > h2 {
+  color: #75b955;
+}
+
+h3 {
+    color: sienna;
+}
+
+hr {
+    height: 0.5px;
+    background-color: #75b955;
+    margin: -20px 0 0 0;
+    border-color: transparent;
+}
+
+

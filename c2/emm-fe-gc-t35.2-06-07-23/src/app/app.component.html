@@ -1,0 +1,82 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-7 mx-auto" *ngIf="!mostramosLosParametros">
+      <h1 class="h1 text-center pt-5 pb-2 mb-4 text-dark border-bottom border-seccondary">Formulario de contacto</h1>
+      <form class="form px-1 needs-validation" (ngSubmit)="submitForm()">
+        <div class="form-group row mt-2">
+          <label for="nombre" class="col-md-1 col-form-label me-4">Nombre</label>
+          <div class="col-md-10">
+            <input
+              type="text"
+              id="nombre"
+              name="nombre"
+              placeholder="Nombre y apellido"
+              required
+              class="form-control"
+              [(ngModel)]="formulario.nombre"
+            />
+            <div *ngIf="!formularioValido['nombre']" class="text-danger">
+              Introduzca su nombre y apellido
+            </div>
+          </div>
+        </div>
+        <div class="form-group row mt-2">
+          <label for="email" class="col-md-1 col-form-label me-4">Email</label>
+          <div class="col-md-10">
+            <input
+              type="email"
+              id="email"
+              name="email"
+              placeholder="ejemplo@dominio.com"
+              required
+              class="form-control"
+              [(ngModel)]="formulario.email"
+            />
+            <div *ngIf="!formularioValido['email']" class="text-danger">
+              Introduzca un email valido
+            </div>
+          </div>
+        </div>
+        <div class="form-group row mt-2">
+          <label for="mensaje" class="col-md-1 col-form-label me-4">Mensaje</label>
+          <div class="col-md-10">
+            <textarea
+              id="mensaje"
+              name="mensaje"
+              required
+              class="form-control"
+              [(ngModel)]="formulario.mensaje"
+            ></textarea>
+            <div *ngIf="!formularioValido['mensaje']" class="text-danger">
+              Introduzca uun mensaje
+            </div>
+          </div>
+        </div>
+        <div class="form-group row mt-2">
+          <label for="respuesta" class="col-md-1 col-form-label me-4">{{ numero1 }}+{{ numero2 }}=?</label>
+          <div class="col-md-10">
+            <input
+              type="text"
+              id="respuesta"
+              name="respuesta"
+              placeholder="Respuesta"
+              required
+              class="form-control"
+              [(ngModel)]="formulario.respuesta"
+              pattern="5"
+            />
+            <div *ngIf="!formularioValido['respuesta']" class="text-danger">
+              Validacion anti-spam incorrecta
+            </div>
+          </div>
+        </div>
+        <div class="row mt-2 pt-5">
+          <div class="col-md-6">
+            <button type="submit" class="btn btn-primary">Guardar</button>
+          </div>
+        </div>
+      </form>
+    </div>
+    <app-form-view *ngIf="mostramosLosParametros" [formulario]="formulario" [numero1]="numero1" [numero2]="numero2"/>
+  </div>
+</div>

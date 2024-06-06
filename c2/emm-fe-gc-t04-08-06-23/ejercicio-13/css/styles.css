@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+table {
+  border-collapse: separate;
+  width: 100%;
+  border: 5px outset gray;
+}
+
+table caption {
+  font-weight: bolder;
+}
+
+table th,
+table td {
+  border: 2px solid rgb(0, 0, 0);
+  padding: 8px;
+  font-weight: bold;
+}
+
+table th {
+  background-color: #ccfecc;
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.bg-pink {
+  background-color: plum;
+}
+
+.bg-blue {
+  background-color: aqua;
+}
+
+.center {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.right-bottom {
+  text-align: end;
+  vertical-align: bottom
+}

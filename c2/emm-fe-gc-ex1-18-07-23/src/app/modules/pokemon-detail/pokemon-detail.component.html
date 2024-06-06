@@ -1,0 +1,32 @@
+<app-nav-bar />
+<div class="container col-xxl-8 px-4 py-5 d-flex vh-100">
+  <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+    <div class="col-10 col-sm-10 col-lg-6 d-flex justify-content-center">
+      <img
+        class="mx-lg-auto"
+        [src]="pokemon.baseImg"
+        alt="Image character"
+      />
+    </div>
+    <div class="col-lg-6">
+      <div class="lc-block mb-3">
+        <div editable="rich">
+          <h2 class="fw-bold display-5">{{ pokemon.name | capitalize}}</h2>
+        </div>
+      </div>
+
+      <div class="lc-block mb-3">
+        <div editable="rich">
+          <h5>Generation</h5>
+          {{pokemon.version}}
+          <h5>Abilities</h5>
+          <ul>
+            <li *ngFor="let ability of pokemon.abilities">
+              {{ ability.ability.name }}
+            </li>
+          </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
