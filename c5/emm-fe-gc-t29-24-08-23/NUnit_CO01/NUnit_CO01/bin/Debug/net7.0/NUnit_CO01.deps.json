@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "NUnit_CO01/1.0.0": {
+        "runtime": {
+          "NUnit_CO01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NUnit_CO01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

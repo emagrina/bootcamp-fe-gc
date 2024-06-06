@@ -1,0 +1,15 @@
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t29-24-08-23/NUnit_CO01/NUnit_CO01/bin/Debug/net7.0/NUnit_CO01
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t29-24-08-23/NUnit_CO01/NUnit_CO01/bin/Debug/net7.0/NUnit_CO01.deps.json
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t29-24-08-23/NUnit_CO01/NUnit_CO01/bin/Debug/net7.0/NUnit_CO01.runtimeconfig.json
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t29-24-08-23/NUnit_CO01/NUnit_CO01/bin/Debug/net7.0/NUnit_CO01.dll
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t29-24-08-23/NUnit_CO01/NUnit_CO01/bin/Debug/net7.0/NUnit_CO01.pdb
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t29-24-08-23/NUnit_CO01/NUnit_CO01/obj/Debug/net7.0/NUnit_CO01.csproj.AssemblyReference.cache
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t29-24-08-23/NUnit_CO01/NUnit_CO01/obj/Debug/net7.0/NUnit_CO01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t29-24-08-23/NUnit_CO01/NUnit_CO01/obj/Debug/net7.0/NUnit_CO01.AssemblyInfoInputs.cache
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t29-24-08-23/NUnit_CO01/NUnit_CO01/obj/Debug/net7.0/NUnit_CO01.AssemblyInfo.cs
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t29-24-08-23/NUnit_CO01/NUnit_CO01/obj/Debug/net7.0/NUnit_CO01.csproj.CoreCompileInputs.cache
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t29-24-08-23/NUnit_CO01/NUnit_CO01/obj/Debug/net7.0/NUnit_CO01.dll
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t29-24-08-23/NUnit_CO01/NUnit_CO01/obj/Debug/net7.0/refint/NUnit_CO01.dll
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t29-24-08-23/NUnit_CO01/NUnit_CO01/obj/Debug/net7.0/NUnit_CO01.pdb
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t29-24-08-23/NUnit_CO01/NUnit_CO01/obj/Debug/net7.0/NUnit_CO01.genruntimeconfig.cache
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t29-24-08-23/NUnit_CO01/NUnit_CO01/obj/Debug/net7.0/ref/NUnit_CO01.dll

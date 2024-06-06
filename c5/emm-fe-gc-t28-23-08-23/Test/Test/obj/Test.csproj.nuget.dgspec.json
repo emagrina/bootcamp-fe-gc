@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t28-23-08-23/Test/Test/Test.csproj": {}
+  },
+  "projects": {
+    "/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t28-23-08-23/Test/Test/Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t28-23-08-23/Test/Test/Test.csproj",
+        "projectName": "Test",
+        "projectPath": "/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t28-23-08-23/Test/Test/Test.csproj",
+        "packagesPath": "/Users/emagrina/.nuget/packages/",
+        "outputPath": "/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c5/emm-fe-gc-t28-23-08-23/Test/Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/emagrina/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "JWT": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

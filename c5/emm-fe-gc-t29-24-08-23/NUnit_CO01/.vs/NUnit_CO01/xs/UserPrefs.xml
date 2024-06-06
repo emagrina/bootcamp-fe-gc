@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4A0B254E-EE29-4B83-9168-B7E567F90799}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NUnit_CO01/Geometria.cs">
+    <Files>
+      <File FileName="NUnit_CO01/Program.cs" />
+      <File FileName="NUnit_CO01/Geometria.cs" Line="13" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NUnit_CO01" expanded="True">
+            <Node name="NUnit_CO01" expanded="True">
+              <Node name="Geometria.cs" selected="True" />
+            </Node>
+            <Node name="NUnit_CO01Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NUnit__CO01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.NUnit__CO01Tests FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
