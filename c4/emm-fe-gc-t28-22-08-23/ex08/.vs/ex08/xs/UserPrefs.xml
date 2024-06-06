@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{15E867F5-B83D-488D-8632-B5EA991D2A98}|Default">
+  <MonoDevelop.Ide.ItemProperties.ex08 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ex08/Program.cs">
+    <Files>
+      <File FileName="ex08/Program.cs" Line="13" Column="15" NotebookId="1" />
+      <File FileName="ex08/Models/Estudiante.cs" Line="8" Column="10" NotebookId="1" />
+      <File FileName="ex08/Models/Persona.cs" Line="15" Column="1" NotebookId="1" />
+      <File FileName="ex08/Aula.cs" Line="17" Column="18" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="937" Y="886" Width="1381" Height="736">
+        <Files>
+          <File FileName="ex08/Models/Profesor.cs" Line="1" Column="12" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ex08" expanded="True">
+            <Node name="ex08">
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

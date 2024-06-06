@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A25ABC3A-FB1A-4C44-BC68-4017EE89E24C}|Default">
+  <MonoDevelop.Ide.ItemProperties.ex06 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ex06/Libro.cs">
+    <Files>
+      <File FileName="ex06/Libro.cs" Line="4" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ex06" expanded="True">
+            <Node name="ex06">
+              <Node name="Libro.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{3439E40E-71C1-4F3B-ADD2-B6D12C8AB3FD}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ex01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ex01/Program.cs">
+    <Files>
+      <File FileName="ex01/Program.cs" Line="22" Column="29" />
+      <File FileName="ex01/Interfaces/IWheel.cs" Line="10" Column="1" />
+      <File FileName="ex01/Simple/Wheel.cs" Line="1" Column="14" />
+      <File FileName="ex01/Simple/Car.cs" Line="33" Column="6" />
+      <File FileName="ex01/Abstract/Vehicle.cs" Line="29" Column="1" />
+      <File FileName="ex01/Simple/Bike.cs" Line="28" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ex01" expanded="True">
+            <Node name="ex01">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

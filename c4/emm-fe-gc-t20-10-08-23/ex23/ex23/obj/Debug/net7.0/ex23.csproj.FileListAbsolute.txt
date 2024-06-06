@@ -1,0 +1,15 @@
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c4/emm-fe-gc-t20-10-08-23/ex23/ex23/bin/Debug/net7.0/ex23
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c4/emm-fe-gc-t20-10-08-23/ex23/ex23/bin/Debug/net7.0/ex23.deps.json
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c4/emm-fe-gc-t20-10-08-23/ex23/ex23/bin/Debug/net7.0/ex23.runtimeconfig.json
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c4/emm-fe-gc-t20-10-08-23/ex23/ex23/bin/Debug/net7.0/ex23.dll
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c4/emm-fe-gc-t20-10-08-23/ex23/ex23/bin/Debug/net7.0/ex23.pdb
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c4/emm-fe-gc-t20-10-08-23/ex23/ex23/obj/Debug/net7.0/ex23.csproj.AssemblyReference.cache
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c4/emm-fe-gc-t20-10-08-23/ex23/ex23/obj/Debug/net7.0/ex23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c4/emm-fe-gc-t20-10-08-23/ex23/ex23/obj/Debug/net7.0/ex23.AssemblyInfoInputs.cache
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c4/emm-fe-gc-t20-10-08-23/ex23/ex23/obj/Debug/net7.0/ex23.AssemblyInfo.cs
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c4/emm-fe-gc-t20-10-08-23/ex23/ex23/obj/Debug/net7.0/ex23.csproj.CoreCompileInputs.cache
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c4/emm-fe-gc-t20-10-08-23/ex23/ex23/obj/Debug/net7.0/ex23.dll
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c4/emm-fe-gc-t20-10-08-23/ex23/ex23/obj/Debug/net7.0/refint/ex23.dll
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c4/emm-fe-gc-t20-10-08-23/ex23/ex23/obj/Debug/net7.0/ex23.pdb
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c4/emm-fe-gc-t20-10-08-23/ex23/ex23/obj/Debug/net7.0/ex23.genruntimeconfig.cache
+/Users/emagrina/Documents/Workspace/Studies/bootcamp-fe-gp/c4/emm-fe-gc-t20-10-08-23/ex23/ex23/obj/Debug/net7.0/ref/ex23.dll

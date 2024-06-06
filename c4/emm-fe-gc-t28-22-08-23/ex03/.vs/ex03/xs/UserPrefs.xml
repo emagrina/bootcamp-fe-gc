@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4C047DEE-A283-4946-BF41-55552BABB9C4}|Default">
+  <MonoDevelop.Ide.ItemProperties.ex03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ex03/Program.cs">
+    <Files>
+      <File FileName="ex03/Program.cs" Line="29" Column="10" />
+      <File FileName="ex03/Password.cs" Line="5" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ex03" expanded="True">
+            <Node name="ex03">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

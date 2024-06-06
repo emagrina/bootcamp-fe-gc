@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{6ADBB151-8BFE-4319-A4EC-14F796AD9834}|Default">
+  <MonoDevelop.Ide.ItemProperties.ex09 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ex09/Model/Espectador.cs">
+    <Files>
+      <File FileName="ex09/Cine.cs" Line="16" Column="1" />
+      <File FileName="ex09/Program.cs" Line="13" Column="32" />
+      <File FileName="ex09/Model/Pelicula.cs" Line="11" Column="1" />
+      <File FileName="ex09/Model/Asiento.cs" Line="1" Column="1" />
+      <File FileName="ex09/Model/Espectador.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ex09" expanded="True">
+            <Node name="ex09">
+              <Node name="Model" expanded="True">
+                <Node name="Espectador.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

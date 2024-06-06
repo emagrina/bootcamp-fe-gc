@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{1A249149-B52C-432A-A8C8-5BB8773EEC87}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ex02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ex02/Program.cs">
+    <Files>
+      <File FileName="ex02/Program.cs" Line="22" Column="15" />
+      <File FileName="ex02/Interface/IEmployee.cs" Line="11" Column="1" />
+      <File FileName="ex02/Simple/Employee.cs" Line="27" Column="1" />
+      <File FileName="ex02/Simple/RangeEmployee/Junior.cs" Line="8" Column="14" />
+      <File FileName="ex02/Simple/RangeEmployee/Mid.cs" Line="1" Column="14" />
+      <File FileName="ex02/Simple/RangeEmployee/Senior.cs" Line="17" Column="6" />
+      <File FileName="ex02/Simple/Boss.cs" Line="1" Column="13" />
+      <File FileName="ex02/Simple/Volunteer.cs" Line="13" Column="1" />
+      <File FileName="ex02/Simple/Manager.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ex02" expanded="True">
+            <Node name="ex02">
+              <Node name="Simple">
+                <Node name="RangeEmployee" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

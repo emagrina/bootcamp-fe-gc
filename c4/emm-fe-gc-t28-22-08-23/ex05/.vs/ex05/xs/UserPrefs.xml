@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A71DD390-6EE3-48FF-B163-802D0C24E387}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ex05/Program.cs">
+    <Files>
+      <File FileName="ex05/Program.cs" Line="34" Column="45" />
+      <File FileName="ex05/Interface/IEntregable.cs" Line="11" Column="1" />
+      <File FileName="ex05/Serie.cs" Line="32" Column="10" />
+      <File FileName="ex05/Videojuego.cs" Line="29" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ex05" expanded="True">
+            <Node name="ex05">
+              <Node name="Interface" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ex05 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
