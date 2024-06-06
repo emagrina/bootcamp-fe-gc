@@ -1,0 +1,3 @@
+SELECT *
+FROM directores
+WHERE DNIJefe IS NULL;

@@ -1,0 +1,2 @@
+SELECT Nombre
+FROM piezas;

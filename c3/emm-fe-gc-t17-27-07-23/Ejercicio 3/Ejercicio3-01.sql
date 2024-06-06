@@ -1,0 +1,1 @@
+SELECT * FROM actividades.almacenes;
